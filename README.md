@@ -56,6 +56,7 @@ Fitur ini memungkinkan pemain untuk bergerak dengan kecepatan berbeda sesuai den
 ---
 
 ## **Notes**
+- **Item yang bisa diambil adalah kubus yang berada pada `Level.tcsn`**
 - UI inventori masih sederhana dan diperbarui dengan cara menghapus serta membuat ulang slot.
 - Sistem crouching memiliki transisi yang halus untuk tinggi karakter dan posisi kamera.
 - Sprinting dan crouching tidak bisa dilakukan secara bersamaan (misalnya, pemain tidak bisa berlari saat sedang jongkok).
